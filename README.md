@@ -14,6 +14,15 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 3. Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems (2019, O’Reilly Media)
 4. 
 
+## Videos/Courses - DL 
+
+## PyTorch Tutorials Online
+1. https://pytorch.org/tutorials/
+2. https://pytorch.org/resources/
+3. https://github.com/hunkim/PyTorchZeroToAll
+4. https://lelon.io/blog/pytorch-baby-steps
+
+
 ## Specialize - Reinforcement Learning
 ### Books
 ### Frameworks
