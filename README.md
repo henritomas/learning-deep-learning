@@ -30,6 +30,10 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 2. OpenAI-Gym integration in Unreal Engine 4 https://github.com/zfw1226/gym-unrealcv
 3. Microsoft AirSim https://microsoft.github.io/AirSim/
 4. Quadrotor/Drone Simulator by UZH-RPG https://uzh-rpg.github.io/flightmare/
+### Tutorials
+1. https://github.com/bentrevett/pytorch-rl
+2. https://github.com/jingweiz/pytorch-rl
+3. https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 
 ## Specialize - Computer Vision
 ## Specialize - TinyML
