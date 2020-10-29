@@ -6,7 +6,7 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 1. Mathematics for Machine Learning https://mml-book.github.io/book/mml-book.pdf
 2. (Adaptive Computation and Machine Learning) Kevin P. Murphy-Machine Learning_ A Probabilistic Perspective-The MIT Press (2012)
 3. Ivan Savov-No Bullshit Guide to Linear Algebra-Minireference (2016)
-4. 
+4. Statistics - https://www.probabilitycourse.com/
 
 ## Books - DL Practical
 1. Deep Learning with Pytorch https://pytorch.org/deep-learning-with-pytorch
