@@ -35,6 +35,7 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 1. https://github.com/bentrevett/pytorch-rl
 2. https://github.com/jingweiz/pytorch-rl
 3. https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+4. https://pytorch.org/tutorials/beginner/pytorch_with_examples.html - Neural network and Backprop/Optimization implemented in Numpy first, then refactored into Pytorch. Good tuturial especially the Numpy portion for a concept check. 
 
 ## Specialize - Computer Vision
 ## Specialize - TinyML
