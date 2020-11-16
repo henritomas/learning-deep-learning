@@ -22,6 +22,7 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 2. https://pytorch.org/resources/
 3. https://github.com/hunkim/PyTorchZeroToAll
 4. https://lelon.io/blog/pytorch-baby-steps
+5. https://pytorchlightning.ai/ - "The ultimate PyTorch research framework. Scale your models, without the boilerplate."
 
 
 ## Specialize - Reinforcement Learning
