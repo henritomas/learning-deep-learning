@@ -27,7 +27,7 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 
 ## Specialize - Reinforcement Learning
 ### Books
-1. Reinforcement Learning by Richard Sutton and Andrew Barto. (reviews)[https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/]
+1. Reinforcement Learning by Richard Sutton and Andrew Barto. [reviews](https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/)
 2. 
 ### Frameworks
 1. RoboSuite by Google https://robosuite.ai/
