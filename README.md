@@ -13,7 +13,9 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 1. Deep Learning with Pytorch https://pytorch.org/deep-learning-with-pytorch
 2. Francois Chollet-Deep Learning with Python-Manning Publications (2017)
 3. Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems (2019, O’Reilly Media)
-4. 
+4. Dive into Deep Learning - Interactive deep learning book with code, math, and discussions : https://d2l.ai/
+
+Implemented with NumPy/MXNet, PyTorch, and TensorFlow
 
 ## Videos/Courses - DL 
 
