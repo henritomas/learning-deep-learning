@@ -8,6 +8,7 @@ Materials and resources I plan to rea/visit/use in the future for learning deep 
 3. Ivan Savov-No Bullshit Guide to Linear Algebra-Minireference (2016)
 4. Statistics - https://www.probabilitycourse.com/
 5. Pattern Recognition and Machine Learning - C.M. Bishop
+6. Machine Learning Design Patterns Solutions to Common Challenges in Data Preparation, Model Building, and MLOps
 
 ## Books - DL Practical
 1. Deep Learning with Pytorch https://pytorch.org/deep-learning-with-pytorch
