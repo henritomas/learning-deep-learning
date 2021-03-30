@@ -48,4 +48,7 @@ Implemented with NumPy/MXNet, PyTorch, and TensorFlow
 ## Specialize - TinyML
 ## Specialize - Natural Language Processing
 
+### Non-Related, Kinda 
+1. "How to Get Your CVPR Paper Rejected?" by Ming-Hsuan Yang https://zjuchenlong.github.io/resources/ming-hsuan_cvpr_paper_rejected.pdf
+
 
